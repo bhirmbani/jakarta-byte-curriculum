@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Jakarta Byte Curriculum`,
+    author: `Bhirawa Mbani`,
+    description: `A site contain all curriculum for Jakarta Byte coding education.`,
+    siteUrl: `https://jakartabyte.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      github: `bhirmbani`,
     },
   },
   plugins: [
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Jakarta Byte Curriculum`,
+        short_name: `JakartaByteCurriculum`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
