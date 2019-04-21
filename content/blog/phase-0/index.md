@@ -1,5 +1,5 @@
 ---
-title: Curriculum Fase 0
+title: Kurikulum Fase 0
 date: "2019-04-20T15:04:47Z"
 description: Kurikulum untuk fase 0 murid Jakarta Byte online bootcamp.
 ---
