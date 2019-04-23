@@ -7,6 +7,8 @@ description: Kurikulum untuk fase 0 murid Jakarta Byte online bootcamp.
 ### Materi 1: Terminal
 [Tugas 1](https://www.codecademy.com/learn/learn-the-command-line)
 
+[Referensi 1: Command Line untuk Pemula](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
+
 ### Materi 2: Git
 [Tugas 1](https://www.codecademy.com/learn/learn-git)
 
